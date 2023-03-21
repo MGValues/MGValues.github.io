@@ -2,7 +2,7 @@ questions =  [
     {"id": 0, "question": "After serving their punishment, ones crimes should not be held against them.", "effects": {"mod": -1}},
     {"id": 1, "question": "The idea of lower-level Courts is flawed.", "effects": {"fed": -1}},
     {"id": 2, "question": "We should not be afraid to implement taxes if necessary.", "effects": {"ali": -1}},
-    {"id": 3, "question": "The General Assembly should be the only legislative body that may vote on bills.", "effects": {"mod": 1}},
+    {"id": 3, "question": "The General Assembly should be the only federal legislative body.", "effects": {"mod": 1}},
     {"id": 4, "question": "The general community should be prioritized over individual rights.", "effects": {"fed": 1}},
     {"id": 5, "question": "Integrating the economy further into the Mock Government will create economic activity.", "effects": {"ali": 1}},
     {"id": 6, "question": "Reform should be the top priority of any Presidential administration.", "effects": {"mod": -1}},
