@@ -18,7 +18,7 @@ questions =  [
     {"id": 16, "question": "A regular loss of money via taxation in the economy will reduce incentive to participate in the economy.", "effects": {"ali": 1}},
     {"id": 17, "question": "Jolly singlehandedly enabled the instability on September 29th, 2021.", "effects": {"mod": -1}},
     {"id": 18, "question": "Regions should be brought back.", "effects": {"fed": 1}},
-    {"id": 19, "question": "Reforming the shop is not an effective way to create economic activity.", "effects": {"ali": -1}},
+    {"id": 19, "question": "Reforming the shop is an ineffective method of creating economic activity.", "effects": {"ali": -1}},
     {"id": 20, "question": "Long term goals are more important than short term goals.", "effects": {"mod": 1}},
     {"id": 21, "question": "Elected Senators and Governors should pay more attention to the needs of their constituents than to the needs of their party.", "effects": {"fed": 1}},
     {"id": 22, "question": "Role income benefits the economy.", "effects": {"ali": 1}},
