@@ -1,6 +1,6 @@
 questions =  [
     {"id": 0, "question": "After serving their punishment, ones crimes should not be held against them.", "effects": {"mod": -1}},
-    {"id": 1, "question": "The idea of Lower-Level Courts is flawed.", "effects": {"fed": -1}},
+    {"id": 1, "question": "The idea of lower-level Courts is flawed.", "effects": {"fed": -1}},
     {"id": 2, "question": "We should not be afraid to implement taxes if necessary.", "effects": {"ali": -1}},
     {"id": 3, "question": "The General Assembly should be the only legislative body that may vote on bills.", "effects": {"mod": 1}},
     {"id": 4, "question": "The general community should be prioritized over individual rights.", "effects": {"fed": 1}},
@@ -25,7 +25,7 @@ questions =  [
     {"id": 23, "question": "Effective communication with staff will never benefit the Mock Government.", "effects": {"mod": -1}},
     {"id": 24, "question": "The Bureau of Elections should be publically viewable.", "effects": {"mod": -1}},
     {"id": 25, "question": "The Mock Government should be significantly downsized.", "effects": {"mod": -1}},
-    {"id": 26, "question": "The staff team is interfering too much in affairs of the Mock Government.", "effects": {"mod": -1}},
+    {"id": 26, "question": "The staff team is over-interfereing in the affairs of the Mock Government.", "effects": {"mod": -1}},
     {"id": 27, "question": "Territories should be self-governing", "effects": {"fed": 1}},
     {"id": 28, "question": "Canada should breakoff from the national government.", "effects": {"fed": 1}},
     {"id": 29, "question": "Canada has too much autonomy.", "effects": {"fed": 1}},
