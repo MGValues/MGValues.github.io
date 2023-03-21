@@ -11,7 +11,7 @@ questions =  [
     {"id": 9, "question": "Court discussion channels should be private.", "effects": {"mod": 1}},
     {"id": 10, "question": "We should revisit and readd old parts of the Mock Government.", "effects": {"fed": 1}},
     {"id": 11, "question": "Economic activity will be better sparked by promoting individual activity than by instating group policies such as taxation.", "effects": {"ali": 1}},
-    {"id": 12, "question": "The Bureau of Elections should be run by the Mock Government only.", "effects": {"mod": -1}},
+    {"id": 12, "question": "The Bureau of Elections should be solely manged and run by the Mock Government.", "effects": {"mod": -1}},
     {"id": 13, "question": "We need to provide and utilize monetary institutions.", "effects": {"ali": -1}},
     {"id": 14, "question": "The courts should be given less power.", "effects": {"mod": 1}},
     {"id": 15, "question": "Regions were implemented well in the Third Republic.", "effects": {"fed": 1}},
